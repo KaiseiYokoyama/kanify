@@ -1,0 +1,12 @@
+[package]
+name = "kanify"
+version = "0.1.0"
+authors = ["Kaisei Yokoyama <yokoyama.kaisei.sm@alumni.tsukuba.ac.jp>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dev-dependencies]
+doc-comment = "0.3.3"
+
+[dependencies]
